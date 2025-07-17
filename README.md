@@ -14,4 +14,6 @@ Handle Excle with Pandas.
 3.划分数据集与训练集.  
 4.构建logistic regression模型.使用sklearn库搭建模型.  
 5.模型评估.对模型进行评估，输出AUC分数，Roc曲线以及精确率.   
-6.特征分析.  
+6.特征分析. 
+
+ ##模型优化
